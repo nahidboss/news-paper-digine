@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background: #240229;
+}
+.top h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    font: optional;
+    text-align: center;
+    /* background: #240229; */
+    color: darkred;
+    
+
+}
+.top h2{
+
+    font-size: 20px;
+    text-align: center;     
+    text-transform: capitalize;
+    /* background: #240229; */
+    color: darkred;
+
+}
+.left{
+    width: 50px;
+    display: flex;
+    cursor: auto;
+    position: fixed;
+}
+.one p{ 
+    margin: 15px;
+    display: block inline;
+}
+.one h1{ 
+    font-size: 20px ;
+    text-align: center;
+    text-transform: capitalize;
+    color:rgb(119, 24, 24);
+    
+}
+.image{
+    border: 3px solid rgb(54, 2, 2);
+
+}
+.image img{
+    width: 200px;
+    border-radius: 38px;
+
+}
+.left input{
+    width: 100px;
+    border: 1px solid red;
+    background-color: non;
+}
+/* this is a news style */
+
+.news h1{
+    text-transform: capitalize;
+
+}
+video{
+    width: 200px;
+
+}
+.video h1{
+    font-size: 40px;
+    color: rgb(138, 6, 6);
+    text-align: center;
+
+}
